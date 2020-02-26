@@ -7,3 +7,15 @@
 
 
 
+
+
+​	公式（13）应为
+
+​            \nu =\frac{\Phi }{\sum \Phi }
+
+​		![CodeCogsEqn](D:\starrysky\Downloads\CodeCogsEqn.gif)
+
+
+
+
+

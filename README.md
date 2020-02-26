@@ -9,6 +9,6 @@
 
 公式（13）应改为
 
-\nu =\frac{\Phi }{\sum \Phi }   
+ \nu =\frac{\Phi }{\sum \Phi }\in \left ( 0,1 \right )
 
 参见图片 "formular13.gif"

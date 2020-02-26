@@ -7,3 +7,8 @@
 
 
 
+公式（13）应改为
+
+\nu =\frac{\Phi }{\sum \Phi }   
+
+参见图片 "formular13.gif"
